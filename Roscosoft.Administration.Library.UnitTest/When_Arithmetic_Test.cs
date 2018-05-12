@@ -22,6 +22,7 @@ namespace Roscosoft.Administration.Library.UnitTest
             decimal value1 = 5;
             decimal value2 = 10;
 
+
             var result = ArithmeticService.TwoValuesSum(value1, value2);
 
             Assert.IsTrue(result == 15);

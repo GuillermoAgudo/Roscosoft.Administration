@@ -23,6 +23,7 @@ namespace Roscosoft.Administration.Library.DomainImplementations
             foreach (var number in numbers)
             {
                 result += number;
+
             }
 
             return result;

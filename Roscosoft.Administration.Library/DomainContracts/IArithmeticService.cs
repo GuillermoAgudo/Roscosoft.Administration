@@ -20,5 +20,6 @@ namespace Roscosoft.Administration.Library.DomainContracts
         decimal ListValuesMultiplication(List<decimal> numbers);
 
         Tuple<double, double> QuadraticEquationType1(decimal a, decimal b, decimal c);
+
     }
 }
